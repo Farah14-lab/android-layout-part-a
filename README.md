@@ -4,6 +4,6 @@ Farah Zulfa Hamidah
 TI-3B
 12
 Hasil
-![images](hellotoast.png)
-![images](hellotoast2.png)
-![images](hellotoast3.jpeg)
+![images](hellotoast.PNG)
+![images](hellotoast2.PNG)
+![images](hellotoast3.PNG)
